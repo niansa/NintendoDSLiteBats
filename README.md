@@ -8,4 +8,4 @@ All batteries were discharged using a `0.2A` load down to `3.1V`.
 |----------------------|---------------------|--------------------------------|----------------------------------|----------------------------------------|
 | Cameron Sino 850 mAh | 893 mAh             | [CSV](cameron_sino_850mah.csv) | [WEBP](cameron_sino_850mah.webp) | [WEBP](cameron_sino_850mah-photo.webp) |
 | megabat800           | 850 mAh             | [CSV](megabat800.csv)          | [WEBP](megabat800.webp)          | [WEBP](megabat800-photo.webp)          |
-|                      |                     |                                |                                  |                                        |
+| OSTENT 1200 mAh      | 1210 mAh            | [CSV](ostent-1200mah.csv)      | [WEBP](ostent-1200mah.webp)      | [WEBP](ostent-1200mah-photo.webp)      |
