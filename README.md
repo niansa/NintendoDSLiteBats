@@ -1,6 +1,6 @@
 # Nintendo DS Lite batteries
 
-All batteries were discharged using a 0.2A load.
+All batteries were discharged using a `0.2A` load down to `3.1V`.
 
 ## Test results
 
